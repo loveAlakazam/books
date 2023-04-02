@@ -1,37 +1,49 @@
 # 내가 읽은 books 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## 1. 왜 래포생성했니?
+내가 읽고싶은 개발/비개발 도서 읽어보고
 
-> 웹툰이 아닌 책읽기에 중독되기 -> 나 보는거 잘하니까... 책읽은거 끄적이기. (사실 멈재님 블로그보면서 떠올랐음)
->
-> 단순히 개발을 좋아서? -> No ^^; (칼단호 ㅋ)
->
-> 개발책 아니더라도? 인문교양도 ㄱㅊ? -> 응 상관없는데 개발책이었음 좋겠어... ^^
->
-> 머리에만 저장하는 습관이 있어서... -> Yes
->
-> 나의 생각을 글로(마크다운으로) 나타내고파
->
-> 전문가가 되려면 항상 공부해야되고, 항상 자기개발을 해야되는데 내가 게으르잖아...ㅠㅠ 이러면 안돼! 나죽어!
+나의 생각을 표현하고 꾸준함을 나타내봅시다.
 
+<br>
 
-## 2. 그래서 너 뭐읽어야되는데?
+## 참여자
 
-- 1. 클린코드
-- 2. Node.js 디자인패턴 바이블
-- 3. 인간관계론 (데일카네기)
-- 4. 함께자라기
-- 5. 개발자의 원칙
-- 6. 집중
-- 7. 몰입 (칙센트 미하이)
-- 8. 몰입의 즐거움
-- 9. 하이퍼커넥트
-- 10. 아주작은 습관의 힘 (1년전에 선물받았는데 한페이지도 못읽음 ㅠ)
-- 11. 날개 (이상)
-- 12. 객체지향의 사실과 오해
-- 13. 사피엔스
-- 14. 나는 4시간만 일한다
-
-키킥 엄청많다 ㅎㅎ
+- 최은강
+- 석규환
 
 
+자유롭게 책읽기 스터디 참여하고 싶으신분들은 이메일 / 카톡 으로 보내주세요.
+깃헙 이메일 계정 알려주시면 write 권한으로 collaborator 추가해드릴게요.
+
+- 이메일: `dmsrkd1216@gmail.com`
+- 카톡아이디: `ek12mv2`
+
+<br>
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/loveAlakazam"><img src="https://avatars.githubusercontent.com/u/36457434?v=4?s=100" width="100px;" alt="loveAlakazam"/><br /><sub><b>loveAlakazam</b></sub></a><br /><a href="https://github.com/loveAlakazam/books/commits?author=loveAlakazam" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
