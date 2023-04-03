@@ -2,8 +2,8 @@
 
 ## Intruoduce
 
-> "Hi!, I'm Gyuhwan.Seok. I work as a backend developer using Java, Kotlin and Spring.
-> This repository contains a list of books that I have read as a backend deveploper.
+> "Hi!, I'm Gyuhwan.Seok. I work as a backend developer using Java, Kotlin and Spring.<br>
+> This repository contains a list of books that I have read as a backend deveploper.<br>
 > I will continue to update this list as I read more books in the future.
 
 
