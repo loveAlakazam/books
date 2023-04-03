@@ -1,0 +1,46 @@
+# My Read Books
+
+## Intruoduce
+
+> "Hi!, I'm Gyuhwan.Seok. I work as a backend developer using Java, Kotlin and Spring.<br>
+> This repository contains a list of books that I have read as a backend deveploper.<br>
+> I will continue to update this list as I read more books in the future.
+
+
+## Read books
+
+### About Development
+
+- God of Java 1, 2 (real book)
+- Real-World Software Development (real book)
+- Java in action (real book)
+
+### Other Geners
+
+- 나의 하루는 4시 30분에 시작된다 (millie)
+- 불편한 편의점 1, 2 (millie)
+- 죽음 1, 2 (millie)
+- 온 세상이 세이지 (millie)
+- 나무 (millie)
+- 문명 1, 2 (millie)
+- 언러키 스타트업 (millie)
+- 우리가 빛의 속도로 갈 수 있다면 (millie)
+- 행성 1, 2 (millie)
+- 진짜 프랑스는 시골에 있다 (millie)
+
+
+## Reading books
+
+### About Development
+
+- Spring in action (real book)
+
+
+## Will read Books
+
+- Clean Architecture (real book)
+- Clean Code (real book)
+- Java to Kotlin (real book)
+- Real MySQL (real book)
+- Effective Java (real book)
+- Other Kotlin-related books (real book)
