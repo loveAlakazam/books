@@ -34,7 +34,7 @@
 ### About Development
 
 - Spring in action (real book)
-- Java to Kotlin (real book)
+- [Java to Kotlin](https://truespring.notion.site/78dbe45e4eaa47af8457beb73f9ad5d4) (real book)
 
 ## Will read Books
 
