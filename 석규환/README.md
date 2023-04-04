@@ -34,13 +34,12 @@
 ### About Development
 
 - Spring in action (real book)
-
+- [Java to Kotlin](https://truespring.notion.site/78dbe45e4eaa47af8457beb73f9ad5d4) (real book)
 
 ## Will read Books
 
 - Clean Architecture (real book)
 - Clean Code (real book)
-- Java to Kotlin (real book)
 - Real MySQL (real book)
 - Effective Java (real book)
 - Other Kotlin-related books (real book)
