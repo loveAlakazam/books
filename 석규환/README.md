@@ -36,6 +36,10 @@
 - Spring in action (real book)
 - [Java to Kotlin](https://truespring.notion.site/78dbe45e4eaa47af8457beb73f9ad5d4) (real book)
 
+### Other Geners
+
+- 스즈메의 문단속 (millie)
+
 ## Will read Books
 
 - Clean Architecture (real book)
