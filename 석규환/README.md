@@ -1,9 +1,9 @@
-# My Read Books
+# [My Read Books](https://truespring.notion.site/a7b039b9604d4c6fbe01b10802eab54e)
 
-## Intruoduce
+## Introduce
 
 > "Hi!, I'm Gyuhwan.Seok. I work as a backend developer using Java, Kotlin and Spring.<br>
-> This repository contains a list of books that I have read as a backend deveploper.<br>
+> This repository contains a list of books that I have read as a backend developer.<br>
 > I will continue to update this list as I read more books in the future.
 
 
@@ -35,6 +35,10 @@
 
 - Spring in action (real book)
 - [Java to Kotlin](https://truespring.notion.site/78dbe45e4eaa47af8457beb73f9ad5d4) (real book)
+
+### Other Geners
+
+- [스즈메의 문단속](https://truespring.notion.site/3c5a5cd6e3a942f4850a432a5410c34d) (millie)
 
 ## Will read Books
 
