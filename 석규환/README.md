@@ -1,6 +1,6 @@
-# My Read Books
+# [My Read Books](https://truespring.notion.site/a7b039b9604d4c6fbe01b10802eab54e)
 
-## Intruoduce
+## Introduce
 
 > "Hi!, I'm Gyuhwan.Seok. I work as a backend developer using Java, Kotlin and Spring.<br>
 > This repository contains a list of books that I have read as a backend deveploper.<br>
