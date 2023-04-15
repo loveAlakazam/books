@@ -15,7 +15,7 @@
 - Real-World Software Development (real book)
 - Java in action (real book)
 
-### Other Geners
+### Other Genres
 
 - 나의 하루는 4시 30분에 시작된다 (millie)
 - 불편한 편의점 1, 2 (millie)
