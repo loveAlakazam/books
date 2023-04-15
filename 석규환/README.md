@@ -38,7 +38,7 @@
 
 ### Other Geners
 
-- 스즈메의 문단속 (millie)
+- [스즈메의 문단속](https://truespring.notion.site/3c5a5cd6e3a942f4850a432a5410c34d) (millie)
 
 ## Will read Books
 
