@@ -15,7 +15,7 @@
 - Real-World Software Development (real book)
 - Java in action (real book)
 
-### Other Geners
+### Other Genres
 
 - 나의 하루는 4시 30분에 시작된다 (millie)
 - 불편한 편의점 1, 2 (millie)
@@ -33,7 +33,7 @@
 
 ### About Development
 
-- Spring in action (real book)
+- [Spring in action](https://truespring.notion.site/668154d407ac43f5a3bff60f473e211c) (real book)
 - [Java to Kotlin](https://truespring.notion.site/78dbe45e4eaa47af8457beb73f9ad5d4) (real book)
 
 ### Other Geners
