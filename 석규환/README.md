@@ -27,7 +27,7 @@
 - 우리가 빛의 속도로 갈 수 있다면 (millie)
 - 행성 1, 2 (millie)
 - 진짜 프랑스는 시골에 있다 (millie)
-
+- [스즈메의 문단속](https://truespring.notion.site/3c5a5cd6e3a942f4850a432a5410c34d) (millie)
 
 ## Reading books
 
@@ -36,9 +36,8 @@
 - [Spring in action](https://truespring.notion.site/668154d407ac43f5a3bff60f473e211c) (real book)
 - [Java to Kotlin](https://truespring.notion.site/78dbe45e4eaa47af8457beb73f9ad5d4) (real book)
 
-### Other Geners
+### Other Genres
 
-- [스즈메의 문단속](https://truespring.notion.site/3c5a5cd6e3a942f4850a432a5410c34d) (millie)
 
 ## Will read Books
 
