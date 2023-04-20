@@ -38,6 +38,8 @@
 
 ### Other Genres
 
+- 거인의 노트 (millie)
+
 
 ## Will read Books
 
