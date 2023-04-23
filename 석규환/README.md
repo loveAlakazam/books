@@ -48,3 +48,6 @@
 - Real MySQL (real book)
 - Effective Java (real book)
 - Other Kotlin-related books (real book)
+- Object (real book)
+- About DDD (real book)
+- About TDD (real book)
