@@ -14,6 +14,7 @@
 - God of Java 1, 2 (real book)
 - Real-World Software Development (real book)
 - Java in action (real book)
+- [Spring in action](https://truespring.notion.site/668154d407ac43f5a3bff60f473e211c) (real book)
 
 ### Other Genres
 
@@ -33,7 +34,6 @@
 
 ### About Development
 
-- [Spring in action](https://truespring.notion.site/668154d407ac43f5a3bff60f473e211c) (real book)
 - [Java to Kotlin](https://truespring.notion.site/78dbe45e4eaa47af8457beb73f9ad5d4) (real book)
 
 ### Other Genres
