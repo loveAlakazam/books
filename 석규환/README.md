@@ -35,10 +35,11 @@
 ### About Development
 
 - [Java to Kotlin](https://truespring.notion.site/78dbe45e4eaa47af8457beb73f9ad5d4) (real book)
+- Object (real book)
 
 ### Other Genres
 
-- 거인의 노트 (millie)
+- [거인의 노트](https://truespring.notion.site/ce8d48cf462b4b59bcd677bfcb28e76e) (millie)
 
 
 ## Will read Books
@@ -48,6 +49,5 @@
 - Real MySQL (real book)
 - Effective Java (real book)
 - Other Kotlin-related books (real book)
-- Object (real book)
 - About DDD (real book)
 - About TDD (real book)
