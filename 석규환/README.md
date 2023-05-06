@@ -35,7 +35,7 @@
 ### About Development
 
 - [Java to Kotlin](https://truespring.notion.site/78dbe45e4eaa47af8457beb73f9ad5d4) (real book)
-- Object (real book)
+- [Objects](https://truespring.notion.site/f9ad040adba34f7d9aeeebbf986894f9) (real book)
 
 ### Other Genres
 
